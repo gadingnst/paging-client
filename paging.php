@@ -44,6 +44,7 @@
 
       if(count($data) <= 0) {
         $arrPageEl = array();
+        $isLast = false;
       }
 
       return [
